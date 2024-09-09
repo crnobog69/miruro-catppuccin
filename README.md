@@ -1,2 +1,2 @@
 # miruro-catppuccin
-Catppuccin Mocha - Miruro
+Catppuccin Mocha - [Miruro](https://www.miruro.com/)
