@@ -1,15 +1,15 @@
-# Catppuccin Mocha - [Miruro](https://www.miruro.com/)
-
-<br>
-
-🇷🇸 | Kopirajte [Ово](https://github.com/crnobog69/miruro-catppuccin/blob/main/miruro.styl) у [Stylus](https://github.com/openstyles/stylus).
-
-<br>
+# 🐈 | Catppuccin Mocha - [Miruro](https://www.miruro.com/)
 
 ---
 
-<br>
+  [Српски (🇷🇸)](README.md) | [English (🇬🇧)](README-en.md)
 
-🇬🇧 | Paste [This](https://github.com/crnobog69/miruro-catppuccin/blob/main/miruro.styl) into [Stylus](https://github.com/openstyles/stylus).
+---
 
-<br>
+## 🛠 | Инсталација
+
+1. Копирајте садржај датотеке [`mocha.styl`](mocha.styl)
+2. Отворите [**Stylus**](https://github.com/openstyles/stylus) додатак
+3. Креирајте нови стил за [**Miruro**](https://www.miruro.com/) сајт
+4. Налепите копирани садржај у нови стил
+5. Сачувајте и активирајте тему
